@@ -11,7 +11,7 @@ this data from ministry of education in suadi arabia , the data about  students 
 diffrent universities external of the kindom . 
 
 #### The Tools:
-I used the python to analysis .
+I used the python 3  to analysis .
 
 
 #### Overall Describtion:
@@ -24,8 +24,6 @@ Q1/ How many student have scholarship ?
 Q2/ How many student according the country ? 
 Q3/ how many students in degrees ? 
 fifth phas: additional analysis .
-
-
-#### finally 
-
-This project created on  May -2018 :) 
+ 
+ 
+ Discover the Analysis  Click Here 
