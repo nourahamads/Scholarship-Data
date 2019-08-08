@@ -20,9 +20,9 @@ phas two: is try to investigate the data and discover the data .
 third phas : wrangling and cleaning data .
 fourth phas :
 the my Questions is :
-Q1/ How many student have scholarship ? 
-Q2/ How many student according the country ? 
-Q3/ how many students in degrees ? 
+- Q1/ How many student have scholarship ? 
+- Q2/ How many student according the country ? 
+- Q3/ how many students in degrees ? 
 fifth phas: additional analysis .
  
  
