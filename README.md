@@ -52,5 +52,5 @@ I used the python 3  to analysis .
     
 ## conclusion
  finally , the next move is bulid model to predict the number of students for next year .
-the goals of this project is to expect the number of the needs jobs , and which the major we have it .
+the goals of this project is to expect the number of the needs jobs , and which the major we have it . the most challenge I faced is the chart visible with poor quality of the X label .  
 
