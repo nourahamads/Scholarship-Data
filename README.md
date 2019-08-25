@@ -1,7 +1,7 @@
 # Scholarship-Data
 
 
-  <img src="https://github.com/nourahamads/Scholarship-Data/blob/master/images.jpg" > 
+  <img src="https://github.com/nourahamads/Scholarship-Data/blob/master/images.jpg"  direction="center" > 
 
 
 Hi there :)
@@ -41,11 +41,11 @@ I used the python 3  to analysis .
 
 ##  The results :
 
-< img  src="https://github.com/nourahamads/Scholarship-Data/blob/master/country1.png"> 
+< img src="https://github.com/nourahamads/Scholarship-Data/blob/master/country1.png"> 
     
     The chart  shows us the most country the students have scholarship  , the Britain has the most students . 
     
-< img  src="https://github.com/nourahamads/Scholarship-Data/blob/master/major.png">  
+< img src="https://github.com/nourahamads/Scholarship-Data/blob/master/major.png">  
 
     The chart shows us the most major , the bachelor number one . 
     
