@@ -32,7 +32,7 @@ diffrent universities external of the kindom .
 
 ## Data prparing  :
    there is not more  null value in the data , there is tow row have the nulls values ,if we have alot of missing value we tried to fill it , but in this situation we drop it from dataset.  
-
+ 
 ## Data Analysis :
 I used the python 3  to analysis .
  
